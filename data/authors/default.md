@@ -1,12 +1,11 @@
 ---
-name: Tama
+name: Tamati Hoetawa
 avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
+occupation: Barrister and Solicitor
+company: Maui Legal
 email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
+linkedin: https://www.https://www.linkedin.com/in/tamati-hoetawa-23000b94/
 github: https://github.com
 ---
 
-data
+Founder of Maui Legal, Tamati is an Kiwi expat having practiced in Criminal Law and Family with services expanded in Denmark. Having experience in the GDPR and familiesammenføring (Family Reunification).
