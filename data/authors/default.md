@@ -3,7 +3,7 @@ name: Tamati Hoetawa
 avatar: /static/images/avatar.png
 occupation: Barrister and Solicitor
 company: Maui Legal
-email: address@yoursite.com
+email: mauilegal.info@gmail.com
 linkedin: https://www.https://www.linkedin.com/in/tamati-hoetawa-23000b94/
 github: https://github.com
 ---
