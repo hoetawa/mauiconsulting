@@ -3,7 +3,7 @@ const projectsData = [
     title: 'Auditing',
     description: `A description of auditing services`,
     imgSrc: '/static/images/google.png',
-    href: '/blog/auditing-example',
+    href: '/blog/danske-bank-is-fined',
   },
   {
     title: 'Policy Writing',
