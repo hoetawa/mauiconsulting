@@ -1,17 +1,31 @@
 const projectsData = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'GDPR Set Up',
+    description: `A description of policy writing`,
+    imgSrc: '/static/images/time-machine.jpg',
+    href: '/blog/the-time-machine',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
+    title: 'Data Auditing',
+    description: `A description of auditing services`,
+    imgSrc: '/static/images/google.png',
+    href: '/blog/danske-bank-is-fined',
+  },
+  {
+    title: 'Policy Writing',
+    description: `A description of policy writing`,
+    imgSrc: '/static/images/time-machine.jpg',
+    href: '/blog/the-time-machine',
+  },
+  {
+    title: 'Data Deletion',
+    description: `A description of data deletion`,
+    imgSrc: '/static/images/time-machine.jpg',
+    href: '/blog/the-time-machine',
+  },
+  {
+    title: 'GDPR Training',
+    description: `A description of gdpr training`,
     imgSrc: '/static/images/time-machine.jpg',
     href: '/blog/the-time-machine',
   },
