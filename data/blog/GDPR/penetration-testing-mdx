@@ -1,50 +1,31 @@
 ---
 title: 'Penetration Testing'
-date: '2022-11-01'
+date: '2022-11-06'
 tags: ['GDPR', 'Denmark', 'Europe']
 draft: false
 summary: 'The Principles of Penetration Testing'
 ---
 
-Protecting personal data can be a complex challenge. Cyber criminals are always on the lookout for new vulnerabilities and weaknesses to exploit, and organisations must constantly work to identify and mitigate them before an attacker can take advantage.
+The idea of data protection alone has not been solely the security of data held, yet, when keeping an close on detail, testing of security systems that touch personal data is an expectation as enshrined in article 32 of the GDPR. Article 32 states:“(d) a process for regularly testing, assessing and evaluating the effectiveness of technical and organizational measures for ensuring the security of the processing."   
 
-Article 32 of the GDPR requires organisations to regularly test and evaluate the effectiveness of the technical and organisational measures employed to protect personal data, and penetration testing is an effective way of assessing your technical defences.
+The article introduces the idea of penetration testing, the idea though of this article is, vague on what specifically must be tested and what is considered regular. The article also doesn't give reason to understand why penetration testing is an important security factor of GDPR, however, the mandatory breach disclosure assumedly does give enough of an incentive to do so. In addition, the GDPR stresses the importance of a ‘privacy-by-design’ model to your companies or organisations' way of handling personal data. Whether threats to security are attributed to cyber criminals seeking vulnerabilities to exploit, or those SaaS platforms & web applications are being developed, protecting personal data ought to be complex and privacy and security must be at the front of your mind. 
 
-Its key to show your clients there are no weak spots in your businesses infrastructure, so they know their data is safe.
+When compromising or overlooking security in exchange for sooner release dates, can lead to holes in your security and eventual breaches. On-going penetration testing & security assessments of applications help in reinforcing your model of ensuring privacy-by-design, and is an effective way of assessing your technical defences. It's key to show your clients and stakeholders there are no weak spots in your businesses infrastructure, so they know their data is safe.
 
-Article 32 of the GDPR (General Data Protection Regulation) requires organisations to implement technical measures to ensure data security – and one of the most important is penetration testing.
+We must not confuse however, that a penetration test is different from a vulnerability test, and the penetration seeks to determine different results. A penetration test are common conduct in five steps:
 
-If you’re not already familiar with the term, penetration testing is a controlled form of hacking in with a professional tester, working on behalf of an organisation, seeks out system vulnerabilities in the same way a criminal would.
+1. Finding a vulnerability;
+2. Design an attack;
+3. Appoint team of ethical hackers;
+4. Determine what kind of data that could be taken;
+5. Act on the findings.
 
-One of the major benefits of penetration testing is that it gives you an insight into your organisation that’s not possible through internal audits or risk assessments.
+Penetration testing being a controlled form of ethical hacking. One of the major benefits of penetration testing is that it gives you an insight into your organisation that’s not possible through internal audits or risk assessments. Penetration tests are an excellent tool that can be used to detect weaknesses in web servers, web browsers, email clients, point-of-sale software, operating systems, server interfaces, even including human weaknesses and as such, form an essential part of your GDPR compliance practices. 
 
-Although those processes are excellent for identifying the ways a criminal hacker may target your organisation, it takes a practical assessment to determine how accurate you are.
+When identifying problems during development
+For many organisations, penetration tests are commonly conducted when they’re building a new system to identify risks that could be overlooked. Testing at an early stage, enables you to have a greater flexibility of correcting weaknesses and avoid the risk of going live with a system or software, only to be easily exploited.
 
-Penetration tests can be used to detect weaknesses in web servers, web browsers, email clients, point-of-sale software, operating systems, server interfaces and even human weaknesses.
+Such testing also helps demonstrate what other various weaknesses that can be used alongside other issues in which can cause greater damage. Becoming proactive and understanding of flaws in a system serves a dual purpose of keeping security sealed tight and raising the trust in your brand. Because it is safe to say, there is no such thing as an impervious system, even if small vulnerabilities may appear insignificant, without robust checks can allow testers and hackers to create intrusion sequences, with small and steady efforts, can pry open security gaps into much greater weaknesses. 
 
-As such, they should form an essential part of your GDPR compliance practices. In this blog, we explain when and how you should conduct penetration testing.
-
-Identifying problems during development
-Many organisations conduct penetration tests when they’re building a new system to identify risks that they’ve overlooked.
-
-The benefit of testing at an early stage is that you have greater flexibility to correct weaknesses and avoid the risk of going live with a system or software that can easily be exploited.
-
-Tests also demonstrate the way various weaknesses can be used alongside each other to cause greater damage. This is particularly useful because you will have come to accept that there will inevitably be flaws in your system – there is no such thing as an impervious organisation – but may not understand the full extent of the risk.
-
-Indeed, taken on their own, small vulnerabilities may appear negligible. However, testers and hackers can create intrusion sequences that take small, steady efforts to pry open security gaps into much larger weakness. 
-
-Knowing that these flaws aren’t benign enables you to take corrective action promptly, rather than having to come up with ad hoc solutions around a fully built system.
-
-Performing an end-of-state check
-Organisations also often perform penetration tests once the system or software has been completed, as it provides an end-of-state check to ensure that the necessary security controls have been implemented.
-
-The main benefit of this is that the tester gets an accurate idea of the final product. The vulnerabilities they detect will be there when the system or software goes live unless they are addressed.
-
-Penetration testers will also typically provide a report on their findings. Unlike automatically generated reports from tools that offer generic remediation tips, these reports rank and rate vulnerabilities according to the scale of the risk and the company’s budget.
-
-This gives the organisation the ability to prioritise the biggest risks and address them accordingly.
-
-Penetration testing with IT Governance
-IT Governance is a CREST-accredited provider of security testing services.
-
-Our range of testing services enables organisations of all sizes to effectively manage cyber security risk by identifying vulnerabilities that could expose infrastructure, applications, wireless networks and people to attack.
+Post-test checks?
+At the conclusion of a penetration test, an end-of-state check is completed as the final part of the process that ensures the necessary security controls are implemented, as it gives an accurate idea of the final product developed. Any report produced can outline their, which is preferred over automatically generated reports, where details can be provided and give greater clarity of needed remediation, where automated tools could be limited to generic and ill-fitted recommendations. As such, organisation the ability to prioritise the biggest risks and address them accordingly as a step towards achieving GDPR compliance.
