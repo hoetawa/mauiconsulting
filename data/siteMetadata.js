@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: 'Maui Legal Consulting',
+  title: 'Maui Legal',
   author: 'Tamati Hoetawa',
-  headerTitle: 'Maui Legal Consulting',
+  headerTitle: 'Maui Legal',
   description: 'Legal Consultancy',
   language: 'en-us',
   theme: 'system', // system, dark or light
@@ -10,11 +10,9 @@ const siteMetadata = {
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
-  email: 'address@yoursite.com',
+  email: 'mauilegal.info@gmail.com',
   github: 'https://github.com',
   twitter: 'https://twitter.com/Twitter',
-  facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
   linkedin: 'https://www.linkedin.com',
   locale: 'en-US',
   analytics: {
